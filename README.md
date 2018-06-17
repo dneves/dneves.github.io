@@ -1,2 +1,0 @@
-# dneves.github.io
-home
